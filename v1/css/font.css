@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'helveticanowdisplay';
+	src: url('../font/helveticanowdisplay.eot');
+	src: local('helveticanowdisplay'),
+	url('../font/helveticanowdisplay.woff') format('woff'),
+	url('../font/helveticanowdisplay.ttf') format('truetype'),
+	url('../font/helveticanowdisplay.svg#htc-icon') format('svg');
+}
+@font-face {
+	font-family: 'helveticanowdisplaylight';
+	src: url('../font/helveticanowdisplaylight.eot');
+	src: local('helveticanowdisplaylight'),
+	url('../font/helveticanowdisplaylight.woff') format('woff'),
+	url('../font/helveticanowdisplaylight.ttf') format('truetype'),
+	url('../font/helveticanowdisplaylight.svg#htc-icon') format('svg');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_4410">Text with this font applied</p> */
+
+/* Font downloaded from FontsForWeb.com */
