@@ -898,6 +898,19 @@ transition: all .5s;*/
     border-radius: 5px;
     text-align: center;
 }
+#ESC-width-full a .btn_style_ico{
+        display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 1px solid rgba(0, 154, 102, 0.3);
+    border-radius: 5px;
+    text-align: center;
+}
+#ESC-width-full a .btn_style_ico img{
+    width: 70% !important;
+        position: relative;
+    top: 3px;
+}
 #ESC-width-full a.btn_style img{
     position: relative;
     top: 3px;
@@ -5231,8 +5244,8 @@ animation: inherit !important;
 }
 #colorbox #cboxClose{
     position: absolute;
-    top: 10px;
-    right: calc(50% - 20px);
+        top: -1em;
+    right: 0;
     background: url(../img/ico_close.svg) center center no-repeat;
     background-size: cover;
     width: 40px;
