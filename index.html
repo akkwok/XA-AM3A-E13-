@@ -575,9 +575,14 @@
                             <script>
                                 $(function(){
                                     $(".pic_open").colorbox({
-                                        maxWidth:'96%'
-                                        // maxHeight:'700px'
-                                    });
+        maxWidth: '96%',
+        close: 'Close',
+        onComplete: function() {
+            var triggerImgAlt = $(this).find('img').not('.btn_zoom').attr('alt') || 'ASUS XA AM3A-E13 system block diagram';
+            $('#cboxLoadedContent .cboxPhoto').attr('alt', triggerImgAlt);
+            $('#cboxClose').attr('aria-label', 'Close dialog');
+        }
+    });
                                     $(".btn_rear_c, .btn_rear_d").click(function() {
                                         $(".btn_rear_c, .btn_rear_d").toggleClass("active");
                                         $("#ESC-Block .info_tab_info").toggleClass("active");
