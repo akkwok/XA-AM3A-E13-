@@ -7,17 +7,17 @@
 	.st1{fill:none;stroke:url(#SVGID_2_);stroke-miterlimit:10;}
 </style>
 <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1.3464" y1="32.75" x2="64.1535" y2="32.75">
-	<stop  offset="8.648649e-02" style="stop-color:#009a66;stop-opacity:0"/>
-	<stop  offset="0.3324" style="stop-color:#009a66"/>
-	<stop  offset="0.6919" style="stop-color:#009a66"/>
-	<stop  offset="0.9243" style="stop-color:#009a66;stop-opacity:0"/>
+	<stop  offset="8.648649e-02" style="stop-color:#3ba9fd;stop-opacity:0"/>
+	<stop  offset="0.3324" style="stop-color:#3ba9fd"/>
+	<stop  offset="0.6919" style="stop-color:#3ba9fd"/>
+	<stop  offset="0.9243" style="stop-color:#3ba9fd;stop-opacity:0"/>
 </linearGradient>
 <line class="st0" x1="1.7" y1="1.7" x2="63.8" y2="63.8"/>
 <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="1.3464" y1="32.75" x2="64.1535" y2="32.75">
-	<stop  offset="8.648649e-02" style="stop-color:#009a66;stop-opacity:0"/>
-	<stop  offset="0.3324" style="stop-color:#009a66"/>
-	<stop  offset="0.6919" style="stop-color:#009a66"/>
-	<stop  offset="0.9243" style="stop-color:#009a66;stop-opacity:0"/>
+	<stop  offset="8.648649e-02" style="stop-color:#3ba9fd;stop-opacity:0"/>
+	<stop  offset="0.3324" style="stop-color:#3ba9fd"/>
+	<stop  offset="0.6919" style="stop-color:#3ba9fd"/>
+	<stop  offset="0.9243" style="stop-color:#3ba9fd;stop-opacity:0"/>
 </linearGradient>
 <line class="st1" x1="63.8" y1="1.7" x2="1.7" y2="63.8"/>
 </svg>
